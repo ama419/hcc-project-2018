@@ -1,9 +1,9 @@
 Store data for project
 
-
-NTAlevelPopulationDemographics.numbers
+ACS Folder
 http://www1.nyc.gov/site/planning/data-maps/nyc-population/american-community-survey.page
-This is from the American Community Survey, and I think we should try to use this source as much as possible.  It has data on the Neighborhood Tabulation Area-level, so we can get pretty fine-grained with what we want to consider Harlem, and it's pretty reputable as a data source. 
+This is from the American Community Survey, and I think we should try to use this source as much as possible.  It has data on the Neighborhood Tabulation Area-/PUMA-level and city-level, so we can get pretty fine-grained with what we want to consider Harlem, and it's pretty reputable as a data source.  We might also be able to find the same survey for NYS and USA.  
+Each file is a different data subject (Economic, Demographic, Housing, Social), and the year.
 
 business_licenses.csv
 https://data.cityofnewyork.us/Business/Legally-Operating-Businesses/w7w3-xahh/data
